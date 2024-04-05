@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = "Just visit the HOMEPAGE to the gem source."
   spec.homepage = "https://github.com/khanh-devos/gem-jruby"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 3.0.0"
+  spec.required_ruby_version = ">= 0"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
