@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'gem/jruby/cli.rb'
+Gem::Jruby::CLI.start
